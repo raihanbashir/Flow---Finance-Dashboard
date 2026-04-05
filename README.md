@@ -99,7 +99,7 @@ I chose **[Context API / Zustand]** over Redux for this project to minimize boil
 
 ## 🙌 Author
 
-**Raihan Bashir** *Computer Science Student @ [Your University]*
+**Raihan Bashir** *Computer Science Student @ Amrita Vishwa Vidyapeetham, Amritapuri
 
 - **GitHub:** [@raihanbashir](https://github.com/raihanbashir)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/raihanbashir/)
